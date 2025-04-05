@@ -1,0 +1,4 @@
+采用《基于Graph-RAG与LLM的代码分析工具自动评估方法研究》中的方法对国产代码分析工具的分析结果进行评估
+文件夹SmartRocket TestGrid下是对工具SmartRocket TestGrid的误报率的评估结果
+文件夹Sunwise SpecChecker下是对工具Sunwise SpecChecker的误报率的评估结果
+文件夹COBOT下是对工具COBOT的误报率的评估结果
